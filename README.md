@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Isabella+Nunes+%E2%80%A2+Desenvolvedora+FullStack" />
+</p>
+
 ---
 
 # 🎯 Objetivo  
@@ -12,7 +16,7 @@ Cursando Análise e Desenvolvimento de Sistemas
 
 # 🛠️ Tecnologias & Ferramentas  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,c,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,c,vscode,php" />
 </p>
 
 ---
